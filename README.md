@@ -7,4 +7,4 @@ This project is for convenient calculation printing cost PDF/DOCX documents. Thi
 **Everything the user needs to do:**
 * Go to your print shop website
 * Upload the document for printing in the **input**-field
-* Get the total cost in the **"Total by plugin"** field
+* Get the total cost in the **"Total by plugin"**-field
