@@ -89,7 +89,7 @@ async function analyzeImg(fileArr) {
     let bwPages = 0;
     for (const fileItem of fileArr.files) {
         //Analyzing a each page from document
-        const result = await analyze(`${fileItem.Url}`, { scale: 0.6 });
+        const result = await analyze(`${fileItem.Url}`, { scale: 0.5 });
         if (result.length <= 256) bwPages++;
         else if (result.length > 256) colorPages++;
     }
