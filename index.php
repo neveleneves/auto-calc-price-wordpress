@@ -1,5 +1,5 @@
 <?php
-//Plugin name: AutoCalcPriceDocuments 
+//Plugin name: AutoCalcPriceDocPlugin.Wordpress
 //Author: Max Nikonov 
 //Author URI: https://github.com/neveleneves
 //Version: 1.0.1
