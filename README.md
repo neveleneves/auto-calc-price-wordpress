@@ -42,10 +42,13 @@ ____
 1. The plugin creates two special products with a print price.
 
 ![2 products](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Two%20products.PNG)
+
 2. The price can be changed by going to the product settings.
 
 ![Change price](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Change%20price.PNG)
+
 ![Update price](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Update%20price.PNG)
+
 ![Changed price](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Changed%20price.PNG)
 
 3. Upload a file of document. 
