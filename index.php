@@ -2,7 +2,7 @@
 //Plugin name: AutoCalcPriceDocuments 
 //Author: Max Nikonov 
 //Author URI: https://github.com/neveleneves
-//Version: 1.0.0
+//Version: 1.0.1
 //Description: Auto price calculation for printing DOC/PDF documents
 
 //Load Script files
