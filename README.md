@@ -61,3 +61,23 @@ ____
 5. Get a summary price in a **"Total price by plugin"** field on your website.
 
 ![Summary](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Total%20by%20plugin.PNG)
+____
+## API & Libraries
+### API
+* [Convert API](https://www.convertapi.com/) - API for converting a file to another format.
+### Libraries
+* [PDF.JS](https://github.com/mozilla/pdf.js/) - library for working with PDF files.
+* [RGBASTER](https://github.com/briangonzalez/rgbaster.js/) - library for analyzing images for a color palette.
+
+**I thank the authors for the opportunity to use their technologies in the development**
+____
+## Plans for the future
+- [ ] Handling other file formats
+- [ ] Handling other sheet sizes
+- [ ] Adding other functions
+- [ ] Loading animation
+- [ ] Optimization
+- [X] Handling DOC/PDF formats of documents
+- [X] Handling color pages
+- [X] Calculating the total cost
+- [X] Price change per page print
