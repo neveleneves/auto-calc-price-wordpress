@@ -7,7 +7,7 @@ This project is for convenient calculation printing cost PDF/DOCX documents. Thi
 **Everything the user needs to do:**
 * Go to your print shop website
 * Upload the document for printing in the **input-field**
-* Get the total cost in the **"Total by plugin"** field
+* Get the total cost in the **"Total price by plugin"** field
 ____
 ## Plugin goals and capabilities
 Always, the cost of printing a document depends on the number of pages in the document, the color of these pages and other factors.
@@ -17,7 +17,7 @@ Always, the cost of printing a document depends on the number of pages in the do
 2. After loading the document for printing into the **input-field**, the plugin will calculate the number of pages in the document and determine the file metadata and output this information to the console window. This information will help identify the customer to whom this order belongs.
 3. The plugin will process the document page by page into a color palette and determine which pages are B&W and which pages have color elements.
 4. The plugin will determine the number of color and black and white pages and calculate the total cost of printing such a document.
-5. The total cost will be written in the **“Total by plugin”** field on the product page of your Wordpress site.
+5. The total cost will be written in the **“Total price by plugin”** field on the product page of your Wordpress site.
 ____
 ## Installation
 **Use this plugin - for free.**
@@ -50,5 +50,15 @@ ____
 ![Changed price](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Changed%20price.PNG)
 
 3. Upload a file of document. 
+
+![Input field](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Input%20field.PNG)
+
+![Test](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Test%20file.PNG)
+
 4. Wait a result and check the console.
-5. Get a summary price in a "Total by plugin" field.
+
+![Console output](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Console%20output.PNG)
+
+5. Get a summary price in a **"Total price by plugin"** field on your website.
+
+![Summary](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Total%20by%20plugin.PNG)
