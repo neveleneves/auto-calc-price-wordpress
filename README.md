@@ -47,7 +47,7 @@ ____
 
 ![Change price](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Change%20price.PNG)
 
-![Update price](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Update%20price.PNG)
+The price has been changed
 
 ![Changed price](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Changed%20price.PNG)
 
