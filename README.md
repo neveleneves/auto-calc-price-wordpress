@@ -23,4 +23,14 @@ ____
 **Use this plugin - for free.**
 ### Using a plugin on your site
 1. The plugin can be installed by going to the **"Plugins"** tab.
-![alt text](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Plugins%20tab.PNG)
+
+![Plugin tab](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Plugins%20tab.PNG)
+
+2. Click on the **"Add Plugin"** button.
+
+![Add Plugin](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Add%20Plugins.PNG)
+
+3. Find plugin in the **search-field**
+
+![Search plugin](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Search%20our%20plugin.PNG)
+
