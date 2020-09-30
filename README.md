@@ -1,5 +1,6 @@
 # AutoCalcPriceDocPlugin.Wordpress
 Auto calculation price for printing DOC/PDF documents on your Wordpress website 
+
 **Use this plugin - for free.**
 ____
 ## Short description of plugin
