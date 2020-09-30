@@ -52,7 +52,6 @@ ____
 3. Upload a file of document. 
 
 ![Input field](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Input%20field.PNG)
-
 ![Test](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Test%20file.PNG)
 
 4. Wait a result and check the console.
