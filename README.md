@@ -33,4 +33,6 @@ ____
 3. Find plugin in the **search-field**
 
 ![Search plugin](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Search%20our%20plugin.PNG)
-
+### Development
+1. Use in development with git clone
+![Dev](https://github.com/neveleneves/AutoCalcPriceDocPlugin.Wordpress/blob/master/img/Search%20our%20plugin.PNG)
