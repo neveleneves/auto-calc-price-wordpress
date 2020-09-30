@@ -1,5 +1,6 @@
 # AutoCalcPriceDocPlugin.Wordpress
-Auto calculation price for printing DOC/PDF documents on your Wordpress website  
+Auto calculation price for printing DOC/PDF documents on your Wordpress website 
+**Use this plugin - for free.**
 ____
 ## Short description of plugin
 This project is for convenient calculation printing cost PDF/DOCX documents. This plugin will be useful to the owners of print shops and is able to make it easier for clients to work with the website and also save them time.
@@ -20,7 +21,6 @@ Always, the cost of printing a document depends on the number of pages in the do
 5. The total cost will be written in the **“Total price by plugin”** field on the product page of your Wordpress site.
 ____
 ## Installation
-**Use this plugin - for free.**
 ### Using a plugin on your site
 1. The plugin can be installed by going to the **"Plugins"** tab.
 
