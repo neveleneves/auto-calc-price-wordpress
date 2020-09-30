@@ -74,7 +74,7 @@ ____
 - [ ] Adding other functions
 - [ ] Loading animation
 - [ ] Optimization
-- [X] Handling DOC/PDF formats of documents
+- [X] Handling DOCX/PDF formats of documents
 - [X] Handling color pages
 - [X] Calculating the total cost
 - [X] Price change per page print
